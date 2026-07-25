@@ -1,0 +1,13 @@
+hiiii
+git status
+git add .
+git comit -m "README CHANGES"
+
+
+
+
+
+
+to resolve :
+git pull
+git push -u origin sample
